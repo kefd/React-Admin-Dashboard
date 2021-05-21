@@ -5,4 +5,4 @@
 ###first you need to install **react-admin** in your project:  
 `npm install react-admin`
 
-
+`npm install ra-data-json-server`
