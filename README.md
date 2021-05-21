@@ -6,3 +6,7 @@
 `npm install react-admin`
 
 `npm install ra-data-json-server`
+
+
+...
+[DashboardTemplate](https://github.com/creativetimofficial/nextjs-material-dashboard)
